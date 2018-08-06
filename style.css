@@ -1,0 +1,58 @@
+.navbar{
+    background-color: rgb(79, 79, 134);
+}
+
+.nav-img{
+    height: 70px;
+    width: 80px;
+}
+
+.nav-heading{
+    margin-left: 18%;
+    font-size: 220%;
+    color: white;
+    text-shadow: 1px 1px rgb(236, 234, 234);
+    font-family: sans-serif;
+}
+
+.image-col{
+    background-color: whitesmoke;
+
+}
+
+.notice-col{
+    background-color: rgb(221, 220, 220);
+}
+
+.notice-head{
+    margin-top: 2%;
+    font-size: 190%;
+    color: black;
+    text-shadow: 1px 1px rgb(39, 38, 38);
+}
+
+.notice{
+    margin-top: 2%;
+    font-size: 190%;
+    color: rgb(14, 71, 158);
+    text-shadow: 1px 1px rgb(39, 38, 38);
+}
+
+.image-col{
+    border-right: 1px solid black;
+    height: 550px;
+}
+
+.date{
+    margin-left: 70%;
+}
+
+
+.notice-list{
+    padding: 1px;
+    margin-left: 8%;
+}
+
+.pagination{
+    border: blue 1px solid;
+}
